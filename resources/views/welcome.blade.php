@@ -117,7 +117,7 @@
                             </svg>
 
                             <a href="https://github.com/sponsors/taylorotwell" class="ml-1 underline">
-                                Deuli.ga
+                                Sponsor: Deuli.ga
                             </a>
                         </div>
                     </div>
