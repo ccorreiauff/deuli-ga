@@ -12,6 +12,7 @@
                         <div class="alert alert-success" role="alert">
                             {{ session('status') }}
                         </div>
+                        <a href=""></a>
                     @endif
 
                     {{ __('You are logged in!') }}
